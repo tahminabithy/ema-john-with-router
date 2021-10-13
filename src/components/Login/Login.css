@@ -1,0 +1,11 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-input{
+    margin: 5px;
+    padding: 10px;
+    padding-right: 10px;
+    border-radius: solid 15px grey;
+}
